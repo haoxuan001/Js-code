@@ -24,7 +24,7 @@ class Forecast {
 }
   
   
-  
+  /*BEFORE USE constructor() */
   
   // const key ="YuCxz76lcUrf56kKtpn9eItLYoVzfYME";
   // // get weather information
